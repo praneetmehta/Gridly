@@ -1,6 +1,8 @@
 # Gridly
 Create beautiful grid of all your album arts with ease..Gridly !!
 
+![Grid Example](https://github.com/praneetmehta/Gridly/blob/master/test3-16:9.jpg)
+
 You can easily run a single command and create beautiful grid of your album arts. 
 First of all you need to install a simple dependency called mutagen
 
